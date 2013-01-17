@@ -1,6 +1,7 @@
 __pycache__
 *~
 *.py[cod]
+*.orig.py
 
 # C extensions
 *.so
